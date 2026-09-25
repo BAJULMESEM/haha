@@ -1,154 +1,44 @@
 // GENERATED FILE. Jangan edit manual.
 window.LECTURE_DATA = [
   {
-    "id": "FIKIH/Kulliyyat Khams.link",
+    "id": "FIKIH/FIKIH.link",
     "maddah": "FIKIH",
-    "title": "Kulliyyat Khams",
-    "day": 18,
-    "month": 9,
-    "year": 2026,
-    "weekday": "Friday",
-    "url": "https://drive.google.com/drive/u/0/"
-  },
-  {
-    "id": "FIKIH/Tasawwur dan Tasdiq.link",
-    "maddah": "FIKIH",
-    "title": "Tasawwur dan Tasdiq",
-    "day": 21,
-    "month": 9,
-    "year": 2026,
-    "weekday": "Monday",
-    "url": "https://drive.google.com/drive/u/0/"
-  },
-  {
-    "id": "FIKIH/Sifat Mustahil Allah.link",
-    "maddah": "FIKIH",
-    "title": "Sifat Mustahil Allah",
+    "title": "FIKIH",
     "day": 22,
     "month": 9,
     "year": 2026,
     "weekday": "Tuesday",
-    "url": "https://drive.google.com/drive/u/0/"
+    "url": "https://drive.google.com/file/d/1gvU2gpyjP0R2_Td9yGP_AxGkBmPSeN6v/view?usp=drive_link"
   },
   {
-    "id": "FIKIH/Khiyar.link",
-    "maddah": "FIKIH",
-    "title": "Khiyar",
-    "day": 23,
+    "id": "hadits tahlili/HADITS TAHLILI.link",
+    "maddah": "hadits tahlili",
+    "title": "HADITS TAHLILI",
+    "day": 22,
     "month": 9,
     "year": 2026,
-    "weekday": "Wednesday",
-    "url": "https://drive.google.com/drive/u/0/"
+    "weekday": "Tuesday",
+    "url": "https://drive.google.com/file/d/1OVahKhVib-wwVD69AnP92XDijNeFYo6m/view?usp=drive_link"
   },
   {
-    "id": "FIKIH/Marfuat.link",
-    "maddah": "FIKIH",
-    "title": "Marfuat",
-    "day": 23,
-    "month": 9,
-    "year": 2026,
-    "weekday": "Wednesday",
-    "url": "https://drive.google.com/drive/u/0/"
-  },
-  {
-    "id": "FIKIH/Sifat Wajib Allah.link",
-    "maddah": "FIKIH",
-    "title": "Sifat Wajib Allah",
-    "day": 24,
-    "month": 9,
-    "year": 2026,
-    "weekday": "Thursday",
-    "url": "https://drive.google.com/drive/u/0/"
-  },
-  {
-    "id": "FIKIH/Wadhi'ah.link",
-    "maddah": "FIKIH",
-    "title": "Wadhi'ah",
-    "day": 24,
-    "month": 9,
-    "year": 2026,
-    "weekday": "Thursday",
-    "url": "https://drive.google.com/drive/u/0/"
-  },
-  {
-    "id": "FIKIH/Mubtada dan Khabar.link",
-    "maddah": "FIKIH",
-    "title": "Mubtada dan Khabar",
-    "day": 25,
-    "month": 9,
-    "year": 2026,
-    "weekday": "Friday",
-    "url": "https://drive.google.com/drive/u/0/"
-  },
-  {
-    "id": "FIKIH/Murabahah.link",
-    "maddah": "FIKIH",
-    "title": "Murabahah",
-    "day": 25,
-    "month": 9,
-    "year": 2026,
-    "weekday": "Friday",
-    "url": "https://drive.google.com/drive/u/0/"
-  },
-  {
-    "id": "FIKIH/Pengantar Qiyas.link",
-    "maddah": "FIKIH",
-    "title": "Pengantar Qiyas",
-    "day": 25,
-    "month": 9,
-    "year": 2026,
-    "weekday": "Friday",
-    "url": "https://drive.google.com/drive/u/0/"
-  },
-  {
-    "id": "FIKIH/Rukun Iman.link",
-    "maddah": "FIKIH",
-    "title": "Rukun Iman",
-    "day": 25,
-    "month": 9,
-    "year": 2026,
-    "weekday": "Friday",
-    "url": "https://drive.google.com/drive/u/0/"
-  },
-  {
-    "id": "FIKIH/Tauliyah.link",
-    "maddah": "FIKIH",
-    "title": "Tauliyah",
-    "day": 25,
-    "month": 9,
-    "year": 2026,
-    "weekday": "Friday",
-    "url": "https://drive.google.com/drive/u/0/"
-  },
-  {
-    "id": "MANTIQ/Kulliyyat Khams.link",
+    "id": "MANTIQ/MANTIQ 1.link",
     "maddah": "MANTIQ",
-    "title": "Kulliyyat Khams",
-    "day": 18,
+    "title": "MANTIQ 1",
+    "day": 19,
     "month": 9,
     "year": 2026,
-    "weekday": "Friday",
-    "url": "https://drive.google.com/drive/u/0/"
+    "weekday": "Saturday",
+    "url": "https://drive.google.com/file/d/17sLaFOgkLchmmBzK83DOjsCyQyIZW962/view?usp=drive_link"
   },
   {
-    "id": "MANTIQ/Tasawwur dan Tasdiq.link",
+    "id": "MANTIQ/MANTIQ 2.link",
     "maddah": "MANTIQ",
-    "title": "Tasawwur dan Tasdiq",
-    "day": 21,
+    "title": "MANTIQ 2",
+    "day": 19,
     "month": 9,
     "year": 2026,
-    "weekday": "Monday",
-    "url": "https://drive.google.com/drive/u/0/"
-  },
-  {
-    "id": "MANTIQ/Pengantar Qiyas.link",
-    "maddah": "MANTIQ",
-    "title": "Pengantar Qiyas",
-    "day": 25,
-    "month": 9,
-    "year": 2026,
-    "weekday": "Friday",
-    "url": "https://drive.google.com/drive/u/0/"
+    "weekday": "Saturday",
+    "url": "https://drive.google.com/file/d/1qLC1OPe7WfLRzBDfLeIga3QMV9ZU9PPf/view?usp=drive_link"
   },
   {
     "id": "NAHWU/Marfuat.link",
@@ -171,33 +61,43 @@ window.LECTURE_DATA = [
     "url": "https://drive.google.com/drive/u/0/"
   },
   {
-    "id": "TAUHID/Sifat Mustahil Allah.link",
+    "id": "SYUBUHAT HAULAL HADITS/SYUBUHAT HAULAL HADITS.link",
+    "maddah": "SYUBUHAT HAULAL HADITS",
+    "title": "SYUBUHAT HAULAL HADITS",
+    "day": 21,
+    "month": 9,
+    "year": 2026,
+    "weekday": "Monday",
+    "url": "https://drive.google.com/file/d/1-tE03Wq2r4G6MfNEQpYrfpL1ZvhhkMF-/view?usp=drive_link"
+  },
+  {
+    "id": "tafsirr/TAFSIR 1.link",
+    "maddah": "tafsirr",
+    "title": "TAFSIR 1",
+    "day": 20,
+    "month": 9,
+    "year": 2026,
+    "weekday": "Sunday",
+    "url": "https://drive.google.com/file/d/1tmT80YlQQbV2lBndOjAXneaU8-HW4bZn/view?usp=drive_link"
+  },
+  {
+    "id": "TAUHID/TAUHID 1.link",
     "maddah": "TAUHID",
-    "title": "Sifat Mustahil Allah",
+    "title": "TAUHID 1",
+    "day": 19,
+    "month": 9,
+    "year": 2026,
+    "weekday": "Saturday",
+    "url": "https://drive.google.com/file/d/12wFH_U1H2f_mbNNg75Y481tiYJb5RoUq/view?usp=drive_link"
+  },
+  {
+    "id": "ulumul quran/ULUMUL QURAN.link",
+    "maddah": "ulumul quran",
+    "title": "ULUMUL QURAN",
     "day": 22,
     "month": 9,
     "year": 2026,
     "weekday": "Tuesday",
-    "url": "https://drive.google.com/drive/u/0/"
-  },
-  {
-    "id": "TAUHID/Sifat Wajib Allah.link",
-    "maddah": "TAUHID",
-    "title": "Sifat Wajib Allah",
-    "day": 24,
-    "month": 9,
-    "year": 2026,
-    "weekday": "Thursday",
-    "url": "https://drive.google.com/drive/u/0/"
-  },
-  {
-    "id": "TAUHID/Rukun Iman.link",
-    "maddah": "TAUHID",
-    "title": "Rukun Iman",
-    "day": 25,
-    "month": 9,
-    "year": 2026,
-    "weekday": "Friday",
-    "url": "https://drive.google.com/drive/u/0/"
+    "url": "https://drive.google.com/file/d/1LURFSPwKgw-PKusc8tKf39mKcSkptv1V/view?usp=drive_link"
   }
 ];
