@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="id">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Lecture Archive">
+  <title>Lecture Archive</title>
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="./">
+      <span class="brand-mark">L</span>
+      <span>
+        <strong>Lecture Archive</strong>
+        <small>Materi berdasarkan maddah & tanggal</small>
+      </span>
+    </a>
+    <div class="top-actions">
+      <button id="themeBtn" class="ghost-btn" aria-label="Ganti tema">☾</button>
+    </div>
+  </header>
+
+  <main class="page">
+    <section class="hero">
+      <div>
+        <div class="eyebrow">PERSONAL LECTURE ARCHIVE</div>
+        <h1>Semua materi, tersusun rapi.</h1>
+        <p>Data sumber dibaca dari folder <code>MADDAH</code>. Kamu tidak perlu mengedit JSON.</p>
+      </div>
+      <div class="hero-stat">
+        <strong id="videoTotal">0</strong>
+        <span>video</span>
+      </div>
+    </section>
+
+    <section class="toolbar">
+      <label class="search">
+        <span>⌕</span>
+        <input id="search" type="search" placeholder="Cari nama materi..." autocomplete="off">
+      </label>
+      <select id="subject"><option value="">Semua maddah</option></select>
+      <select id="month"><option value="">Semua bulan</option></select>
+      <button id="reset" class="ghost-btn">Reset</button>
+    </section>
+
+    <nav class="mode-tabs" aria-label="Mode tampilan">
+      <button class="mode-btn active" data-mode="subject">01 · PER MADDAH</button>
+      <button class="mode-btn" data-mode="date">02 · PER TANGGAL</button>
+    </nav>
+
+    <section id="subjectMode" class="mode-section"></section>
+    <section id="dateMode" class="mode-section hidden"></section>
+
+    <footer>
+      <span>Lecture Archive</span>
+      <span>Data input: <code>MADDAH/NAMA_MADDAH/*.link</code></span>
+    </footer>
+  </main>
+
+  <script src="generated/data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
