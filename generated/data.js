@@ -5,15 +5,15 @@ window.LECTURE_DATA = [
     "maddah": "FALSAFAH AMMAH",
     "title": "1",
     "day": 28,
-    "month": 6,
+    "month": 9,
     "year": 2026,
-    "weekday": "Sunday",
+    "weekday": "Monday",
     "url": "https://drive.google.com/file/d/10B826zysQCsvkFOWlDZYuVOTA4glLShB/view?usp=drive_link"
   },
   {
-    "id": "FIKIH/FIKIH.link",
+    "id": "FIKIH/1.link",
     "maddah": "FIKIH",
-    "title": "FIKIH",
+    "title": "1",
     "day": 22,
     "month": 9,
     "year": 2026,
@@ -21,9 +21,9 @@ window.LECTURE_DATA = [
     "url": "https://drive.google.com/file/d/1gvU2gpyjP0R2_Td9yGP_AxGkBmPSeN6v/view?usp=drive_link"
   },
   {
-    "id": "hadits tahlili/HADITS TAHLILI.link",
+    "id": "hadits tahlili/1.link",
     "maddah": "hadits tahlili",
-    "title": "HADITS TAHLILI",
+    "title": "1",
     "day": 22,
     "month": 9,
     "year": 2026,
@@ -31,9 +31,9 @@ window.LECTURE_DATA = [
     "url": "https://drive.google.com/file/d/1OVahKhVib-wwVD69AnP92XDijNeFYo6m/view?usp=drive_link"
   },
   {
-    "id": "MANTIQ/MANTIQ 1.link",
+    "id": "MANTIQ/1.link",
     "maddah": "MANTIQ",
-    "title": "MANTIQ 1",
+    "title": "1",
     "day": 19,
     "month": 9,
     "year": 2026,
@@ -41,9 +41,9 @@ window.LECTURE_DATA = [
     "url": "https://drive.google.com/file/d/17sLaFOgkLchmmBzK83DOjsCyQyIZW962/view?usp=drive_link"
   },
   {
-    "id": "MANTIQ/MANTIQ 2.link",
+    "id": "MANTIQ/2.link",
     "maddah": "MANTIQ",
-    "title": "MANTIQ 2",
+    "title": "2",
     "day": 19,
     "month": 9,
     "year": 2026,
@@ -51,9 +51,9 @@ window.LECTURE_DATA = [
     "url": "https://drive.google.com/file/d/1qLC1OPe7WfLRzBDfLeIga3QMV9ZU9PPf/view?usp=drive_link"
   },
   {
-    "id": "MANTIQ/MANTIQ 3.LINK",
+    "id": "MANTIQ/3.LINK",
     "maddah": "MANTIQ",
-    "title": "MANTIQ 3",
+    "title": "3",
     "day": 26,
     "month": 9,
     "year": 2026,
@@ -61,9 +61,9 @@ window.LECTURE_DATA = [
     "url": "https://drive.google.com/file/d/1Rcq6Pf8kQlfPgz9HmBGXsh5zLLKnXbMD/view?usp=drive_link"
   },
   {
-    "id": "MANTIQ/MANTIQ 4.LINK",
+    "id": "MANTIQ/4.LINK",
     "maddah": "MANTIQ",
-    "title": "MANTIQ 4",
+    "title": "4",
     "day": 26,
     "month": 9,
     "year": 2026,
@@ -71,9 +71,9 @@ window.LECTURE_DATA = [
     "url": "https://drive.google.com/file/d/1xAZ5ctq_c_idcv79X4sD7xvJb3Jwf_Fd/view?usp=drive_link"
   },
   {
-    "id": "MANTIQ/MANTIQ 5.LINK",
+    "id": "MANTIQ/5.LINK",
     "maddah": "MANTIQ",
-    "title": "MANTIQ 5",
+    "title": "5",
     "day": 27,
     "month": 9,
     "year": 2026,
@@ -81,24 +81,24 @@ window.LECTURE_DATA = [
     "url": "https://drive.google.com/file/d/1uPHvo2GRmH8WPZpvEpjGTjqh_EAbI092/view?usp=drive_link"
   },
   {
-    "id": "SYUBUHAT HAULAL HADITS/2.LINK",
+    "id": "SYUBUHAT HAULAL HADITS/1.link",
     "maddah": "SYUBUHAT HAULAL HADITS",
-    "title": "2",
-    "day": 28,
-    "month": 6,
-    "year": 2026,
-    "weekday": "Sunday",
-    "url": "https://drive.google.com/file/d/1ziCIeifK-7edcgr8qK6IklPN4tgq1fsF/view?usp=drive_link"
-  },
-  {
-    "id": "SYUBUHAT HAULAL HADITS/SYUBUHAT HAULAL HADITS.link",
-    "maddah": "SYUBUHAT HAULAL HADITS",
-    "title": "SYUBUHAT HAULAL HADITS",
+    "title": "1",
     "day": 21,
     "month": 9,
     "year": 2026,
     "weekday": "Monday",
     "url": "https://drive.google.com/file/d/1-tE03Wq2r4G6MfNEQpYrfpL1ZvhhkMF-/view?usp=drive_link"
+  },
+  {
+    "id": "SYUBUHAT HAULAL HADITS/2.LINK",
+    "maddah": "SYUBUHAT HAULAL HADITS",
+    "title": "2",
+    "day": 28,
+    "month": 9,
+    "year": 2026,
+    "weekday": "Monday",
+    "url": "https://drive.google.com/file/d/1ziCIeifK-7edcgr8qK6IklPN4tgq1fsF/view?usp=drive_link"
   },
   {
     "id": "tafsirr/TAFSIR 1.link",
@@ -131,9 +131,9 @@ window.LECTURE_DATA = [
     "url": "https://drive.google.com/file/d/12wFH_U1H2f_mbNNg75Y481tiYJb5RoUq/view?usp=drive_link"
   },
   {
-    "id": "ulumul quran/ULUMUL QURAN.link",
+    "id": "ulumul quran/1.link",
     "maddah": "ulumul quran",
-    "title": "ULUMUL QURAN",
+    "title": "1",
     "day": 22,
     "month": 9,
     "year": 2026,
