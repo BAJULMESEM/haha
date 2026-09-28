@@ -1,6 +1,16 @@
 // GENERATED FILE. Jangan edit manual.
 window.LECTURE_DATA = [
   {
+    "id": "FALSAFAH AMMAH/1.LINK",
+    "maddah": "FALSAFAH AMMAH",
+    "title": "1",
+    "day": 28,
+    "month": 6,
+    "year": 2026,
+    "weekday": "Sunday",
+    "url": "https://drive.google.com/file/d/10B826zysQCsvkFOWlDZYuVOTA4glLShB/view?usp=drive_link"
+  },
+  {
     "id": "FIKIH/FIKIH.link",
     "maddah": "FIKIH",
     "title": "FIKIH",
@@ -41,24 +51,44 @@ window.LECTURE_DATA = [
     "url": "https://drive.google.com/file/d/1qLC1OPe7WfLRzBDfLeIga3QMV9ZU9PPf/view?usp=drive_link"
   },
   {
-    "id": "NAHWU/Marfuat.link",
-    "maddah": "NAHWU",
-    "title": "Marfuat",
-    "day": 23,
+    "id": "MANTIQ/MANTIQ 3.LINK",
+    "maddah": "MANTIQ",
+    "title": "MANTIQ 3",
+    "day": 26,
     "month": 9,
     "year": 2026,
-    "weekday": "Wednesday",
-    "url": "https://drive.google.com/drive/u/0/"
+    "weekday": "Saturday",
+    "url": "https://drive.google.com/file/d/1Rcq6Pf8kQlfPgz9HmBGXsh5zLLKnXbMD/view?usp=drive_link"
   },
   {
-    "id": "NAHWU/Mubtada dan Khabar.link",
-    "maddah": "NAHWU",
-    "title": "Mubtada dan Khabar",
-    "day": 25,
+    "id": "MANTIQ/MANTIQ 4.LINK",
+    "maddah": "MANTIQ",
+    "title": "MANTIQ 4",
+    "day": 26,
     "month": 9,
     "year": 2026,
-    "weekday": "Friday",
-    "url": "https://drive.google.com/drive/u/0/"
+    "weekday": "Saturday",
+    "url": "https://drive.google.com/file/d/1xAZ5ctq_c_idcv79X4sD7xvJb3Jwf_Fd/view?usp=drive_link"
+  },
+  {
+    "id": "MANTIQ/MANTIQ 5.LINK",
+    "maddah": "MANTIQ",
+    "title": "MANTIQ 5",
+    "day": 27,
+    "month": 9,
+    "year": 2026,
+    "weekday": "Sunday",
+    "url": "https://drive.google.com/file/d/1uPHvo2GRmH8WPZpvEpjGTjqh_EAbI092/view?usp=drive_link"
+  },
+  {
+    "id": "SYUBUHAT HAULAL HADITS/2.LINK",
+    "maddah": "SYUBUHAT HAULAL HADITS",
+    "title": "2",
+    "day": 28,
+    "month": 6,
+    "year": 2026,
+    "weekday": "Sunday",
+    "url": "https://drive.google.com/file/d/1ziCIeifK-7edcgr8qK6IklPN4tgq1fsF/view?usp=drive_link"
   },
   {
     "id": "SYUBUHAT HAULAL HADITS/SYUBUHAT HAULAL HADITS.link",
@@ -81,6 +111,16 @@ window.LECTURE_DATA = [
     "url": "https://drive.google.com/file/d/1tmT80YlQQbV2lBndOjAXneaU8-HW4bZn/view?usp=drive_link"
   },
   {
+    "id": "tafsirr/2.LINK",
+    "maddah": "tafsirr",
+    "title": "2",
+    "day": 27,
+    "month": 9,
+    "year": 2026,
+    "weekday": "Sunday",
+    "url": "https://drive.google.com/file/d/1-5PiB5ugZOba14busk3rnC1ScGrNfofi/view?usp=drive_link"
+  },
+  {
     "id": "TAUHID/TAUHID 1.link",
     "maddah": "TAUHID",
     "title": "TAUHID 1",
@@ -99,5 +139,15 @@ window.LECTURE_DATA = [
     "year": 2026,
     "weekday": "Tuesday",
     "url": "https://drive.google.com/file/d/1LURFSPwKgw-PKusc8tKf39mKcSkptv1V/view?usp=drive_link"
+  },
+  {
+    "id": "ulumul quran/2.LINK",
+    "maddah": "ulumul quran",
+    "title": "2",
+    "day": 28,
+    "month": 9,
+    "year": 2026,
+    "weekday": "Monday",
+    "url": "https://drive.google.com/file/d/18oGjJuRyUcod41jMfzSqkNWxhRW3hdKD/view?usp=drive_link"
   }
 ];
