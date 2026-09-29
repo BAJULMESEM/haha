@@ -21,6 +21,16 @@ window.LECTURE_DATA = [
     "url": "https://drive.google.com/file/d/1gvU2gpyjP0R2_Td9yGP_AxGkBmPSeN6v/view?usp=drive_link"
   },
   {
+    "id": "FIKIH/2.link",
+    "maddah": "FIKIH",
+    "title": "2",
+    "day": 29,
+    "month": 9,
+    "year": 2026,
+    "weekday": "Tuesday",
+    "url": "https://drive.google.com/file/d/1iti_FYP-sMnEt9EkyQc9OAmex9ySMNGu/view?usp=drive_link"
+  },
+  {
     "id": "hadits tahlili/1.link",
     "maddah": "hadits tahlili",
     "title": "1",
@@ -149,5 +159,25 @@ window.LECTURE_DATA = [
     "year": 2026,
     "weekday": "Monday",
     "url": "https://drive.google.com/file/d/18oGjJuRyUcod41jMfzSqkNWxhRW3hdKD/view?usp=drive_link"
+  },
+  {
+    "id": "ulumul quran/3.link",
+    "maddah": "ulumul quran",
+    "title": "3",
+    "day": 29,
+    "month": 9,
+    "year": 2026,
+    "weekday": "Tuesday",
+    "url": "https://drive.google.com/file/d/1nCVUyBG7euIrzHL17d0Pihsu4SVXYTR9/view?usp=drive_link"
+  },
+  {
+    "id": "ulumul quran/4.link",
+    "maddah": "ulumul quran",
+    "title": "4",
+    "day": 29,
+    "month": 9,
+    "year": 2026,
+    "weekday": "Tuesday",
+    "url": "https://drive.google.com/file/d/1WfyVfM-63HAFE3ny9mVpB-p0CfT5HEOq/view?usp=drive_link"
   }
 ];
