@@ -11,6 +11,16 @@ window.LECTURE_DATA = [
     "url": "https://drive.google.com/file/d/10B826zysQCsvkFOWlDZYuVOTA4glLShB/view?usp=drive_link"
   },
   {
+    "id": "FALSAFAH AMMAH/2.link",
+    "maddah": "FALSAFAH AMMAH",
+    "title": "2",
+    "day": 30,
+    "month": 9,
+    "year": 2026,
+    "weekday": "Wednesday",
+    "url": "https://drive.google.com/file/d/1Eoq90By3z5XBIyFVE1XwVnJT0Pp639v1/view?usp=drive_link"
+  },
+  {
     "id": "FIKIH/1.link",
     "maddah": "FIKIH",
     "title": "1",
@@ -39,6 +49,26 @@ window.LECTURE_DATA = [
     "year": 2026,
     "weekday": "Tuesday",
     "url": "https://drive.google.com/file/d/1OVahKhVib-wwVD69AnP92XDijNeFYo6m/view?usp=drive_link"
+  },
+  {
+    "id": "hadits tahlili/2.link",
+    "maddah": "hadits tahlili",
+    "title": "2",
+    "day": 30,
+    "month": 9,
+    "year": 2026,
+    "weekday": "Wednesday",
+    "url": "https://drive.google.com/file/d/1Y5XGTXF1rHPGTYdmF8zlDAdwf7oVRySQ/view?usp=drive_link"
+  },
+  {
+    "id": "KHITOBAH/1.link",
+    "maddah": "KHITOBAH",
+    "title": "1",
+    "day": 26,
+    "month": 9,
+    "year": 2026,
+    "weekday": "Saturday",
+    "url": "https://drive.google.com/file/d/1mbgGtlZNsrh_eqKffSZ0lqOyf2CBG-KP/view?usp=drive_link"
   },
   {
     "id": "MANTIQ/1.link",
