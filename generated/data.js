@@ -21,6 +21,26 @@ window.LECTURE_DATA = [
     "url": "https://drive.google.com/file/d/1Eoq90By3z5XBIyFVE1XwVnJT0Pp639v1/view?usp=drive_link"
   },
   {
+    "id": "FALSAFAH AMMAH/3.link",
+    "maddah": "FALSAFAH AMMAH",
+    "title": "3",
+    "day": 5,
+    "month": 10,
+    "year": 2026,
+    "weekday": "Monday",
+    "url": "https://drive.google.com/file/d/1_vzLPN24Tz7U2nZEX4Ojo9eYN87xzmvT/view?usp=drive_link"
+  },
+  {
+    "id": "FALSAFAH AMMAH/4.link",
+    "maddah": "FALSAFAH AMMAH",
+    "title": "4",
+    "day": 7,
+    "month": 10,
+    "year": 2026,
+    "weekday": "Wednesday",
+    "url": "https://drive.google.com/file/d/1K1OpowPkr9Whs58prVAQKm3V4KT1dsp7/view?usp=drive_link"
+  },
+  {
     "id": "FIKIH/1.link",
     "maddah": "FIKIH",
     "title": "1",
@@ -39,6 +59,16 @@ window.LECTURE_DATA = [
     "year": 2026,
     "weekday": "Tuesday",
     "url": "https://drive.google.com/file/d/1iti_FYP-sMnEt9EkyQc9OAmex9ySMNGu/view?usp=drive_link"
+  },
+  {
+    "id": "FIKIH/3.link",
+    "maddah": "FIKIH",
+    "title": "3",
+    "day": 6,
+    "month": 10,
+    "year": 2026,
+    "weekday": "Tuesday",
+    "url": "https://drive.google.com/file/d/1xggg7Eora0a7IoYdfQpdALMNa-YsCehR/view?usp=drive_link"
   },
   {
     "id": "hadits tahlili/1.link",
@@ -141,6 +171,16 @@ window.LECTURE_DATA = [
     "url": "https://drive.google.com/file/d/1v5ca6LLcGtxvQX3yHQSulC6gfrPiHzG4/view?usp=drive_link"
   },
   {
+    "id": "NUDZUM ISLAMIYAH/1.link",
+    "maddah": "NUDZUM ISLAMIYAH",
+    "title": "1",
+    "day": 7,
+    "month": 10,
+    "year": 2026,
+    "weekday": "Wednesday",
+    "url": "https://drive.google.com/file/d/1e8F4gGROHLlblhTqjG09L5Uee6G4pAxA/view?usp=drive_link"
+  },
+  {
     "id": "SYUBUHAT HAULAL HADITS/1.link",
     "maddah": "SYUBUHAT HAULAL HADITS",
     "title": "1",
@@ -159,6 +199,26 @@ window.LECTURE_DATA = [
     "year": 2026,
     "weekday": "Monday",
     "url": "https://drive.google.com/file/d/1ziCIeifK-7edcgr8qK6IklPN4tgq1fsF/view?usp=drive_link"
+  },
+  {
+    "id": "SYUBUHAT HAULAL HADITS/3.link",
+    "maddah": "SYUBUHAT HAULAL HADITS",
+    "title": "3",
+    "day": 5,
+    "month": 10,
+    "year": 2026,
+    "weekday": "Monday",
+    "url": "https://drive.google.com/file/d/1gUxRHfJ2DYtGXELKImxhahGmI1acV5qA/view?usp=drive_link"
+  },
+  {
+    "id": "SYUBUHAT HAULAL HADITS/4.link",
+    "maddah": "SYUBUHAT HAULAL HADITS",
+    "title": "4",
+    "day": 10,
+    "month": 10,
+    "year": 2026,
+    "weekday": "Saturday",
+    "url": "https://drive.google.com/file/d/1NLmupqrJpk7etohzy3AV_fGVhPWBr8t1/view?usp=drive_link"
   },
   {
     "id": "tafsirr/TAFSIR 1.link",
@@ -201,6 +261,16 @@ window.LECTURE_DATA = [
     "url": "https://drive.google.com/file/d/1SMIy38NmoEu7qyAsX63yItC4SCHci2SB/view?usp=drive_link"
   },
   {
+    "id": "TAUHID/2.link",
+    "maddah": "TAUHID",
+    "title": "2",
+    "day": 10,
+    "month": 10,
+    "year": 2026,
+    "weekday": "Saturday",
+    "url": "https://drive.google.com/file/d/1_VSOxqCHJeXKOUxF5SRT82aoY5h4nW89/view?usp=drive_link"
+  },
+  {
     "id": "ulumul quran/1.link",
     "maddah": "ulumul quran",
     "title": "1",
@@ -239,5 +309,25 @@ window.LECTURE_DATA = [
     "year": 2026,
     "weekday": "Tuesday",
     "url": "https://drive.google.com/file/d/1WfyVfM-63HAFE3ny9mVpB-p0CfT5HEOq/view?usp=drive_link"
+  },
+  {
+    "id": "ulumul quran/5.link",
+    "maddah": "ulumul quran",
+    "title": "5",
+    "day": 5,
+    "month": 10,
+    "year": 2026,
+    "weekday": "Monday",
+    "url": "https://drive.google.com/file/d/15AMOW9hQLGGaIkGCgjlUyn-n8D1aR3b6/view?usp=drive_link"
+  },
+  {
+    "id": "ulumul quran/6.link",
+    "maddah": "ulumul quran",
+    "title": "6",
+    "day": 6,
+    "month": 10,
+    "year": 2026,
+    "weekday": "Tuesday",
+    "url": "https://drive.google.com/file/d/1TPpValy_H1UZQqpR3SJhyjiqmi5g3SJi/view?usp=drive_link"
   }
 ];
