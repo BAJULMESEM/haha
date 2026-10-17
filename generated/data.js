@@ -51,6 +51,16 @@ window.LECTURE_DATA = [
     "url": "https://drive.google.com/file/d/1NTnVnHJWY11ywuulzdUnNN7Gx1H8izYZ/view?usp=drive_link"
   },
   {
+    "id": "FALSAFAH AMMAH/6.link",
+    "maddah": "FALSAFAH AMMAH",
+    "title": "6",
+    "day": 14,
+    "month": 10,
+    "year": 2026,
+    "weekday": "Wednesday",
+    "url": "https://drive.google.com/file/d/13bZpPL0Ygw2mQJlqV-EJM45lLq2IUTrq/view?usp=drive_link"
+  },
+  {
     "id": "FIKIH/1.link",
     "maddah": "FIKIH",
     "title": "1",
@@ -81,6 +91,16 @@ window.LECTURE_DATA = [
     "url": "https://drive.google.com/file/d/1xggg7Eora0a7IoYdfQpdALMNa-YsCehR/view?usp=drive_link"
   },
   {
+    "id": "FIKIH/4.link",
+    "maddah": "FIKIH",
+    "title": "4",
+    "day": 14,
+    "month": 10,
+    "year": 2026,
+    "weekday": "Wednesday",
+    "url": "https://drive.google.com/file/d/12y8l6pT1quGq3ewJwuZadmfJK3hS-ZxN/view?usp=drive_link"
+  },
+  {
     "id": "hadits tahlili/1.link",
     "maddah": "hadits tahlili",
     "title": "1",
@@ -99,6 +119,16 @@ window.LECTURE_DATA = [
     "year": 2026,
     "weekday": "Wednesday",
     "url": "https://drive.google.com/file/d/1Y5XGTXF1rHPGTYdmF8zlDAdwf7oVRySQ/view?usp=drive_link"
+  },
+  {
+    "id": "hadits tahlili/3.link",
+    "maddah": "hadits tahlili",
+    "title": "3",
+    "day": 13,
+    "month": 10,
+    "year": 2026,
+    "weekday": "Tuesday",
+    "url": "https://drive.google.com/file/d/12y8l6pT1quGq3ewJwuZadmfJK3hS-ZxN/view?usp=drive_link"
   },
   {
     "id": "KHITOBAH/1.link",
@@ -399,5 +429,25 @@ window.LECTURE_DATA = [
     "year": 2026,
     "weekday": "Tuesday",
     "url": "https://drive.google.com/file/d/1TPpValy_H1UZQqpR3SJhyjiqmi5g3SJi/view?usp=drive_link"
+  },
+  {
+    "id": "ulumul quran/7.link",
+    "maddah": "ulumul quran",
+    "title": "7",
+    "day": 13,
+    "month": 10,
+    "year": 2026,
+    "weekday": "Tuesday",
+    "url": "https://drive.google.com/file/d/1hhuP_I7mFbqkahjDtXNCRSSyft7VAtxp/view?usp=drive_link"
+  },
+  {
+    "id": "ulumul quran/8.link",
+    "maddah": "ulumul quran",
+    "title": "8",
+    "day": 13,
+    "month": 10,
+    "year": 2026,
+    "weekday": "Tuesday",
+    "url": "https://drive.google.com/file/d/1d8Hfk0dzvyyjreB2KFZq87A3UyU0Foxg/view?usp=drive_link"
   }
 ];
