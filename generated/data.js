@@ -161,6 +161,16 @@ window.LECTURE_DATA = [
     "url": "https://drive.google.com/file/d/10foz9_EF4hr-9u1lP3rf9D8oiBJT3UXi/view?usp=drive_link"
   },
   {
+    "id": "KHITOBAH/4.link",
+    "maddah": "KHITOBAH",
+    "title": "4",
+    "day": 11,
+    "month": 10,
+    "year": 2026,
+    "weekday": "Sunday",
+    "url": "https://drive.google.com/file/d/1kLJr1LxUzNlpb3A1TSKrRnVcJgYLiNwF/view?usp=drive_link"
+  },
+  {
     "id": "MANTIQ/1.link",
     "maddah": "MANTIQ",
     "title": "1",
@@ -239,6 +249,16 @@ window.LECTURE_DATA = [
     "year": 2026,
     "weekday": "Saturday",
     "url": "https://drive.google.com/file/d/183LW0yVf9NJueDWvMaYQvSX477rKRLeG/view?usp=drive_link"
+  },
+  {
+    "id": "MANTIQ/9.link",
+    "maddah": "MANTIQ",
+    "title": "9",
+    "day": 11,
+    "month": 10,
+    "year": 2026,
+    "weekday": "Sunday",
+    "url": "https://drive.google.com/file/d/10XKmSto7VRvm3-x8fKTj7u0lBp8PkJxg/view?usp=drive_link"
   },
   {
     "id": "NUDZUM ISLAMIYAH/1.link",
