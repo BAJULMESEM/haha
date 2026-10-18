@@ -171,6 +171,16 @@ window.LECTURE_DATA = [
     "url": "https://drive.google.com/file/d/1kLJr1LxUzNlpb3A1TSKrRnVcJgYLiNwF/view?usp=drive_link"
   },
   {
+    "id": "KHITOBAH/5.link",
+    "maddah": "KHITOBAH",
+    "title": "5",
+    "day": 18,
+    "month": 10,
+    "year": 2026,
+    "weekday": "Sunday",
+    "url": "https://drive.google.com/file/d/1kvfOcglbioyARys4TZsmLemzUzzDeivF/view?usp=drive_link"
+  },
+  {
     "id": "MANTIQ/1.link",
     "maddah": "MANTIQ",
     "title": "1",
@@ -259,6 +269,16 @@ window.LECTURE_DATA = [
     "year": 2026,
     "weekday": "Sunday",
     "url": "https://drive.google.com/file/d/10XKmSto7VRvm3-x8fKTj7u0lBp8PkJxg/view?usp=drive_link"
+  },
+  {
+    "id": "MANTIQ/10.link",
+    "maddah": "MANTIQ",
+    "title": "10",
+    "day": 18,
+    "month": 10,
+    "year": 2026,
+    "weekday": "Sunday",
+    "url": "https://drive.google.com/file/d/1yT5prMevqrx3dDWeVlWo2hn-8iOR8BIk/view?usp=drive_link"
   },
   {
     "id": "NUDZUM ISLAMIYAH/1.link",
@@ -361,6 +381,16 @@ window.LECTURE_DATA = [
     "url": "https://drive.google.com/file/d/1Ib1O4fPRFLgc7KaqVAYQ-OMJ9E0vNNOq/view?usp=drive_link"
   },
   {
+    "id": "tafsirr/5.link",
+    "maddah": "tafsirr",
+    "title": "5",
+    "day": 18,
+    "month": 10,
+    "year": 2026,
+    "weekday": "Sunday",
+    "url": "https://drive.google.com/file/d/1yHo17KN21o7MGiEB__1L3eiTZjHfmO8A/view?usp=drive_link"
+  },
+  {
     "id": "TAUHID/TAUHID 1.link",
     "maddah": "TAUHID",
     "title": "TAUHID 1",
@@ -389,6 +419,16 @@ window.LECTURE_DATA = [
     "year": 2026,
     "weekday": "Saturday",
     "url": "https://drive.google.com/file/d/1_VSOxqCHJeXKOUxF5SRT82aoY5h4nW89/view?usp=drive_link"
+  },
+  {
+    "id": "TAUHID/3.link",
+    "maddah": "TAUHID",
+    "title": "3",
+    "day": 17,
+    "month": 10,
+    "year": 2026,
+    "weekday": "Saturday",
+    "url": "https://drive.google.com/file/d/1SrMdT92xJYtfZMjfgEvc62wbpqJ32ecU/view?usp=drive_link"
   },
   {
     "id": "ulumul quran/1.link",
