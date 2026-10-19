@@ -61,6 +61,16 @@ window.LECTURE_DATA = [
     "url": "https://drive.google.com/file/d/13bZpPL0Ygw2mQJlqV-EJM45lLq2IUTrq/view?usp=drive_link"
   },
   {
+    "id": "FALSAFAH AMMAH/7.link",
+    "maddah": "FALSAFAH AMMAH",
+    "title": "7",
+    "day": 19,
+    "month": 10,
+    "year": 2026,
+    "weekday": "Monday",
+    "url": "https://drive.google.com/file/d/14gBrSH7mDa4ZLjLIjWdtFJ9BYZtlPIJe/view?usp=drive_link"
+  },
+  {
     "id": "FIKIH/1.link",
     "maddah": "FIKIH",
     "title": "1",
@@ -351,6 +361,16 @@ window.LECTURE_DATA = [
     "url": "https://drive.google.com/file/d/1Wu2ALpoiwO4VOBqupLwmqhcpCCuQOl6I/view?usp=drive_link"
   },
   {
+    "id": "SYUBUHAT HAULAL HADITS/6.link",
+    "maddah": "SYUBUHAT HAULAL HADITS",
+    "title": "6",
+    "day": 19,
+    "month": 10,
+    "year": 2026,
+    "weekday": "Monday",
+    "url": "https://drive.google.com/file/d/1Y8L5kpT0jKGNayRAFjGXg-oMPA0AzJKA/view?usp=drive_link"
+  },
+  {
     "id": "tafsirr/TAFSIR 1.link",
     "maddah": "tafsirr",
     "title": "TAFSIR 1",
@@ -519,5 +539,15 @@ window.LECTURE_DATA = [
     "year": 2026,
     "weekday": "Tuesday",
     "url": "https://drive.google.com/file/d/1d8Hfk0dzvyyjreB2KFZq87A3UyU0Foxg/view?usp=drive_link"
+  },
+  {
+    "id": "ulumul quran/9.link",
+    "maddah": "ulumul quran",
+    "title": "9",
+    "day": 19,
+    "month": 10,
+    "year": 2026,
+    "weekday": "Monday",
+    "url": "https://drive.google.com/file/d/1G5GlH8nlFASWcVjqvrj2b0OYf8XCuaw1/view?usp=drive_link"
   }
 ];
