@@ -271,6 +271,16 @@ window.LECTURE_DATA = [
     "url": "https://drive.google.com/file/d/10XKmSto7VRvm3-x8fKTj7u0lBp8PkJxg/view?usp=drive_link"
   },
   {
+    "id": "MANTIQ/11.link",
+    "maddah": "MANTIQ",
+    "title": "11",
+    "day": 17,
+    "month": 10,
+    "year": 2026,
+    "weekday": "Saturday",
+    "url": "https://drive.google.com/file/d/1JDig20kbqBXQ6EFqaIWbVkTPK055TrNp/view"
+  },
+  {
     "id": "MANTIQ/10.link",
     "maddah": "MANTIQ",
     "title": "10",
