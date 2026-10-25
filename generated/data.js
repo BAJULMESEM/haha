@@ -351,6 +351,16 @@ window.LECTURE_DATA = [
     "url": "https://drive.google.com/file/d/16JoaI5kisb5aqoNJrXWQsg5lcu_c-7pg/view?usp=drive_link"
   },
   {
+    "id": "MANTIQ/13.link",
+    "maddah": "MANTIQ",
+    "title": "13",
+    "day": 25,
+    "month": 10,
+    "year": 2026,
+    "weekday": "Sunday",
+    "url": "https://drive.google.com/file/d/1go2_NDXLF38N_CHhOAjX7U9pLOEkXD8l/view?usp=drive_link"
+  },
+  {
     "id": "NUDZUM ISLAMIYAH/1.link",
     "maddah": "NUDZUM ISLAMIYAH",
     "title": "1",
@@ -479,6 +489,16 @@ window.LECTURE_DATA = [
     "year": 2026,
     "weekday": "Sunday",
     "url": "https://drive.google.com/file/d/1yHo17KN21o7MGiEB__1L3eiTZjHfmO8A/view?usp=drive_link"
+  },
+  {
+    "id": "tafsirr/6.link",
+    "maddah": "tafsirr",
+    "title": "6",
+    "day": 25,
+    "month": 10,
+    "year": 2026,
+    "weekday": "Sunday",
+    "url": "https://drive.google.com/file/d/1f2rfGxb5pQ4g9bvb7Eo0RJEl5l8oOeU_/view?usp=drive_link"
   },
   {
     "id": "TAUHID/TAUHID 1.link",
