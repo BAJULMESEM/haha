@@ -171,6 +171,16 @@ window.LECTURE_DATA = [
     "url": "https://drive.google.com/file/d/1pFnctPGskhbgewz3WYz-Uq7ht3AWFMFQ/view?usp=drive_link"
   },
   {
+    "id": "hadits tahlili/5.link",
+    "maddah": "hadits tahlili",
+    "title": "5",
+    "day": 27,
+    "month": 10,
+    "year": 2026,
+    "weekday": "Tuesday",
+    "url": "https://drive.google.com/file/d/121e6oyHdt_TaZcdmhiClLRJS2irOwt0Y/view?usp=drive_link"
+  },
+  {
     "id": "KHITOBAH/1.link",
     "maddah": "KHITOBAH",
     "title": "1",
@@ -639,5 +649,15 @@ window.LECTURE_DATA = [
     "year": 2026,
     "weekday": "Monday",
     "url": "https://drive.google.com/file/d/1G5GlH8nlFASWcVjqvrj2b0OYf8XCuaw1/view?usp=drive_link"
+  },
+  {
+    "id": "ulumul quran/10.link",
+    "maddah": "ulumul quran",
+    "title": "10",
+    "day": 27,
+    "month": 10,
+    "year": 2026,
+    "weekday": "Tuesday",
+    "url": "https://drive.google.com/file/d/1nLAnGdXgRVHF3ZBG5olH2OdrmazWmubF/view?usp=drive_link"
   }
 ];
