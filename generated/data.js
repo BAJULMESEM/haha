@@ -81,6 +81,16 @@ window.LECTURE_DATA = [
     "url": "https://drive.google.com/file/d/1ud7fTEh6GcREBG9wWqa3GfV6LR6VC3iX/view?usp=drive_link"
   },
   {
+    "id": "FALSAFAH AMMAH/10.link",
+    "maddah": "FALSAFAH AMMAH",
+    "title": "10",
+    "day": 26,
+    "month": 10,
+    "year": 2026,
+    "weekday": "Monday",
+    "url": "https://drive.google.com/file/d/1E0_71T9fky6t6SU3JLijEmjvYLVDsf1N/view"
+  },
+  {
     "id": "FALSAFAH AMMAH/9.link",
     "maddah": "FALSAFAH AMMAH",
     "title": "9",
@@ -89,6 +99,16 @@ window.LECTURE_DATA = [
     "year": 2026,
     "weekday": "Wednesday",
     "url": "https://drive.google.com/file/d/1FKH5hAtcmYDuvQtVtDb3wONvYWqcZn0D/view?usp=drive_link"
+  },
+  {
+    "id": "FALSAFAH AMMAH/11.link",
+    "maddah": "FALSAFAH AMMAH",
+    "title": "11",
+    "day": 2,
+    "month": 11,
+    "year": 2026,
+    "weekday": "Monday",
+    "url": "https://drive.google.com/file/d/1IlRHG8Bazs9G0XhhrMR6jMKuZBGN9dW4/view"
   },
   {
     "id": "FIKIH/1.link",
@@ -411,6 +431,26 @@ window.LECTURE_DATA = [
     "url": "https://drive.google.com/file/d/1bXemdlfMPjk0gRskZtNr7hilFq-ABjRb/view?usp=drive_link"
   },
   {
+    "id": "MANTIQ/15.link",
+    "maddah": "MANTIQ",
+    "title": "15",
+    "day": 1,
+    "month": 11,
+    "year": 2026,
+    "weekday": "Sunday",
+    "url": "https://drive.google.com/file/d/1lIbq0n1NNDBSdJJs1ErvcziX84nNzMYD/view"
+  },
+  {
+    "id": "NUDZUM ISLAMIYAH/4.link",
+    "maddah": "NUDZUM ISLAMIYAH",
+    "title": "4",
+    "day": 27,
+    "month": 9,
+    "year": 2026,
+    "weekday": "Sunday",
+    "url": "https://drive.google.com/file/d/1-zVyM7RONP6rxZ-DhZ210MzGa6q7OTX7/view"
+  },
+  {
     "id": "NUDZUM ISLAMIYAH/1.link",
     "maddah": "NUDZUM ISLAMIYAH",
     "title": "1",
@@ -429,6 +469,16 @@ window.LECTURE_DATA = [
     "year": 2026,
     "weekday": "Wednesday",
     "url": "https://drive.google.com/file/d/11D9dyRmYNLKe09FNl41wlSVyVeAZ3cfn/view?usp=drive_link"
+  },
+  {
+    "id": "NUDZUM ISLAMIYAH/5.link",
+    "maddah": "NUDZUM ISLAMIYAH",
+    "title": "5",
+    "day": 21,
+    "month": 10,
+    "year": 2026,
+    "weekday": "Wednesday",
+    "url": "https://drive.google.com/file/d/1sdMjyg3tuH4CAxE_NT23uRozEwke2T6O/view"
   },
   {
     "id": "NUDZUM ISLAMIYAH/3.link",
